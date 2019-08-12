@@ -1,4 +1,5 @@
-﻿using System;
+﻿/* Hello World Sample Program */
+using System;
 
 namespace helloworld
 {
