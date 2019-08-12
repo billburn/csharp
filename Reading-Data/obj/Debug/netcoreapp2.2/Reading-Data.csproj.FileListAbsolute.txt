@@ -1,0 +1,11 @@
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\Reading-Data\bin\Debug\netcoreapp2.2\Reading-Data.deps.json
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\Reading-Data\bin\Debug\netcoreapp2.2\Reading-Data.runtimeconfig.json
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\Reading-Data\bin\Debug\netcoreapp2.2\Reading-Data.runtimeconfig.dev.json
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\Reading-Data\bin\Debug\netcoreapp2.2\Reading-Data.dll
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\Reading-Data\bin\Debug\netcoreapp2.2\Reading-Data.pdb
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\Reading-Data\obj\Debug\netcoreapp2.2\Reading-Data.csprojAssemblyReference.cache
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\Reading-Data\obj\Debug\netcoreapp2.2\Reading-Data.csproj.CoreCompileInputs.cache
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\Reading-Data\obj\Debug\netcoreapp2.2\Reading-Data.AssemblyInfoInputs.cache
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\Reading-Data\obj\Debug\netcoreapp2.2\Reading-Data.AssemblyInfo.cs
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\Reading-Data\obj\Debug\netcoreapp2.2\Reading-Data.dll
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\Reading-Data\obj\Debug\netcoreapp2.2\Reading-Data.pdb
