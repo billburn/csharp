@@ -6,7 +6,10 @@ namespace Reading_Data
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("How old are you, enter your age: ");
+            string input = Console.ReadLine();
+            Console.WriteLine($"You are {input} years old!");
+
         }
     }
 }

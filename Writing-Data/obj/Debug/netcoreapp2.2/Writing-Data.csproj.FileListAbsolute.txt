@@ -1,0 +1,11 @@
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\Writing-Data\bin\Debug\netcoreapp2.2\Writing-Data.deps.json
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\Writing-Data\bin\Debug\netcoreapp2.2\Writing-Data.runtimeconfig.json
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\Writing-Data\bin\Debug\netcoreapp2.2\Writing-Data.runtimeconfig.dev.json
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\Writing-Data\bin\Debug\netcoreapp2.2\Writing-Data.dll
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\Writing-Data\bin\Debug\netcoreapp2.2\Writing-Data.pdb
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\Writing-Data\obj\Debug\netcoreapp2.2\Writing-Data.csprojAssemblyReference.cache
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\Writing-Data\obj\Debug\netcoreapp2.2\Writing-Data.csproj.CoreCompileInputs.cache
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\Writing-Data\obj\Debug\netcoreapp2.2\Writing-Data.AssemblyInfoInputs.cache
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\Writing-Data\obj\Debug\netcoreapp2.2\Writing-Data.AssemblyInfo.cs
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\Writing-Data\obj\Debug\netcoreapp2.2\Writing-Data.dll
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\Writing-Data\obj\Debug\netcoreapp2.2\Writing-Data.pdb
