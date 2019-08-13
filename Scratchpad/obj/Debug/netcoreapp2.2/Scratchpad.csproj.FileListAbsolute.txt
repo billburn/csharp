@@ -1,0 +1,11 @@
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\Scratchpad\bin\Debug\netcoreapp2.2\Scratchpad.deps.json
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\Scratchpad\bin\Debug\netcoreapp2.2\Scratchpad.runtimeconfig.json
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\Scratchpad\bin\Debug\netcoreapp2.2\Scratchpad.runtimeconfig.dev.json
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\Scratchpad\bin\Debug\netcoreapp2.2\Scratchpad.dll
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\Scratchpad\bin\Debug\netcoreapp2.2\Scratchpad.pdb
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\Scratchpad\obj\Debug\netcoreapp2.2\Scratchpad.csprojAssemblyReference.cache
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\Scratchpad\obj\Debug\netcoreapp2.2\Scratchpad.csproj.CoreCompileInputs.cache
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\Scratchpad\obj\Debug\netcoreapp2.2\Scratchpad.AssemblyInfoInputs.cache
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\Scratchpad\obj\Debug\netcoreapp2.2\Scratchpad.AssemblyInfo.cs
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\Scratchpad\obj\Debug\netcoreapp2.2\Scratchpad.dll
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\Scratchpad\obj\Debug\netcoreapp2.2\Scratchpad.pdb
