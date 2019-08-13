@@ -12,7 +12,7 @@ __Writing Data to Console__
 *With WriteLine, this will add a linebreak after the WriteLine*
 * Console.WriteLine("some text"); 
 
-*With Cjust the Write, this will NOT put a linebreak after the Write*
+*With the Write, this will NOT put a linebreak after the Write*
 * Console.Write("some text")
 
 __Start a new project in Visual Studio Code__
