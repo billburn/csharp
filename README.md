@@ -16,9 +16,10 @@ Console.WriteLine("some text");
 
 *With the Write, this will NOT put a linebreak after the Write*
 ```
-Console.Write("some text")
+Console.Write("some text");
 ```
 
+Visual Studio Code
 __Start a new project in Visual Studio Code__
 * dotnet new console
 
