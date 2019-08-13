@@ -1,5 +1,12 @@
 # csharp
- 
+
+__Data Types__
+* string => string "Hello World!";
+* int => int 5;
+* double => double 25.23;
+* char => 'a', 'R', or '&';
+* bool => True or False
+
 __Start a new project__
 * dotnet new console
 
