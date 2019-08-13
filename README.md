@@ -1,11 +1,11 @@
 # csharp
 
 __Data Types__
-* string => string "Hello World!";
-* int => int 5;
-* double => double 25.23;
+* string => string name = "Hello World!";
+* int => int myAge = 25;
+* double => double weight =  25.23;
 * char => 'a', 'R', or '&';
-* bool => True or False
+* bool => bool answer = True;
 
 __Start a new project__
 * dotnet new console
