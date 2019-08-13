@@ -19,7 +19,7 @@ Console.WriteLine("some text");
 Console.Write("some text");
 ```
 
-Visual Studio Code
+# Visual Studio Code
 __Start a new project in Visual Studio Code__
 * dotnet new console
 
