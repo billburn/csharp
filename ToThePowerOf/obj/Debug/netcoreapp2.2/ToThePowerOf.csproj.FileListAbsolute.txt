@@ -1,0 +1,11 @@
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\ToThePowerOf\bin\Debug\netcoreapp2.2\ToThePowerOf.deps.json
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\ToThePowerOf\bin\Debug\netcoreapp2.2\ToThePowerOf.runtimeconfig.json
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\ToThePowerOf\bin\Debug\netcoreapp2.2\ToThePowerOf.runtimeconfig.dev.json
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\ToThePowerOf\bin\Debug\netcoreapp2.2\ToThePowerOf.dll
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\ToThePowerOf\bin\Debug\netcoreapp2.2\ToThePowerOf.pdb
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\ToThePowerOf\obj\Debug\netcoreapp2.2\ToThePowerOf.csprojAssemblyReference.cache
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\ToThePowerOf\obj\Debug\netcoreapp2.2\ToThePowerOf.csproj.CoreCompileInputs.cache
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\ToThePowerOf\obj\Debug\netcoreapp2.2\ToThePowerOf.AssemblyInfoInputs.cache
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\ToThePowerOf\obj\Debug\netcoreapp2.2\ToThePowerOf.AssemblyInfo.cs
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\ToThePowerOf\obj\Debug\netcoreapp2.2\ToThePowerOf.dll
+C:\Users\Bill\OneDrive\Code\GitHub\csharp\ToThePowerOf\obj\Debug\netcoreapp2.2\ToThePowerOf.pdb
