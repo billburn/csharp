@@ -7,7 +7,11 @@ __Data Types__
 * char => 'a', 'R', or '&';
 * bool => bool answer = True;
 
-__Start a new project__
+__Writing Data to Console__
+* Console.WriteLine("some text");
+* Console.Write("some text")
+
+__Start a new project in Visual Studio Code__
 * dotnet new console
 
 __Compile to executable in Visual Studio Code__
