@@ -10,10 +10,14 @@ __Data Types__
 __Writing Data to Console__
 
 *With WriteLine, this will add a linebreak after the WriteLine*
-* Console.WriteLine("some text"); 
+```
+Console.WriteLine("some text");
+```
 
 *With the Write, this will NOT put a linebreak after the Write*
-* Console.Write("some text")
+```
+Console.Write("some text")
+```
 
 __Start a new project in Visual Studio Code__
 * dotnet new console
