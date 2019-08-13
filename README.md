@@ -8,7 +8,11 @@ __Data Types__
 * bool => bool answer = True;
 
 __Writing Data to Console__
-* Console.WriteLine("some text");
+
+*With WriteLine, this will add a linebreak after the WriteLine*
+* Console.WriteLine("some text"); 
+
+*With Cjust the Write, this will NOT put a linebreak after the Write*
 * Console.Write("some text")
 
 __Start a new project in Visual Studio Code__
