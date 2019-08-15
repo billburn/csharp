@@ -17,11 +17,19 @@ namespace Scratchpad
             //Console.WriteLine(mySqrt);
             //Console.WriteLine(myFloor);
             //Console.WriteLine(myMin);
-            string withoutSlash = "Ifemelu said, 'Hello!'";
-            string withSlash = "Ifemelu said, \'Hello!\'";
+            //string withoutSlash = "Ifemelu said, 'Hello!'";
+            //string withSlash = "Ifemelu said, \'Hello!\'";
+            //Console.WriteLine(withoutSlash);
+            //Console.Write(withSlash);
+            
+            string firstSentence = "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.";
 
-            Console.WriteLine(withoutSlash);
-            Console.Write(withSlash);
+            string firstSpeech = "\'My dear Mr. Bennet,\' said his lady to him one day, \'have you heard that Netherfield Park is let at last?\'";
+
+            Console.WriteLine(firstSentence);
+            Console.WriteLine();
+            Console.WriteLine(firstSpeech);
+
         }
     }
 }
