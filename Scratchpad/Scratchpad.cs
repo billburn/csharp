@@ -7,6 +7,7 @@ namespace Scratchpad
         static void Main(string[] args)
         {
             //int students = 18;
+            //int students = 19;
             //int groupSize = students % 3;
             //Console.Write(groupSize);
             //int myInt = Math.Abs(12932);
